@@ -8,7 +8,8 @@ namespace lab1_incaps
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("                                         Вариант 5");
+            Console.WriteLine("Лабораторная работа 1 ~~~ Вариант 5 ~~~ Выполнил Яворский Антон");
+            Console.WriteLine("****************************************************************");
 
             treugolnik tr1 = new treugolnik(3 , 1 , 3);
             Console.WriteLine(tr1.GetInfo());
